@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="por">
+  <head>
+    <meta name="dtb:uid" content="2a0f8294-6b00-4c4d-b845-e5bf7e12a99e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Inovações Auto Sustentáveis Usando Inteligência Artificial</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Agricultura de Precisão</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Energia Renovável Inteligente</text>
+      </navLabel>
+      <content src="2.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Construções Inteligentes</text>
+      </navLabel>
+      <content src="3.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Gestão de Resíduos com IA</text>
+      </navLabel>
+      <content src="4.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Plataformas de Transporte Sustentável</text>
+      </navLabel>
+      <content src="5.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Monitoramento de Ecossistemas</text>
+      </navLabel>
+      <content src="6.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Produção Industrial Circular</text>
+      </navLabel>
+      <content src="7.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>Desenvolvimento de Materiais Verdes</text>
+      </navLabel>
+      <content src="8.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Apoio à Aquicultura Sustentável</text>
+      </navLabel>
+      <content src="9.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>Economia de Água Inteligente</text>
+      </navLabel>
+      <content src="10.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11" class="chapter">
+      <navLabel>
+        <text>Conclusão</text>
+      </navLabel>
+      <content src="conc.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

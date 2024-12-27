@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>pt</dc:language>
+    <dc:title>Inovações Auto Sustentáveis Usando Inteligência Artificial</dc:title>
+    <dc:contributor opf:role="bkp">calibre (7.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2024-12-27T16:54:27.057620+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">2a0f8294-6b00-4c4d-b845-e5bf7e12a99e</dc:identifier>
+    <dc:identifier opf:scheme="calibre">2a0f8294-6b00-4c4d-b845-e5bf7e12a99e</dc:identifier>
+    <dc:creator opf:role="aut">Unknown</dc:creator>
+    <meta name="calibre:title_sort" content="Inovações Auto Sustentáveis Usando Inteligência Artificial"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id12" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="econc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="start" href="ccover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id" href="sinopse.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="conc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="ccover.png" media-type="image/png"/>
+    <item id="id13" href="cover.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
+    <itemref idref="id14"/>
+    <itemref idref="start"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
